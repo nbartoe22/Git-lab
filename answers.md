@@ -6,3 +6,8 @@ Changes to be commited new file README.md
 Changes to be commited answers.md, README.md
 On branch master, nothing to commit, working tree clean
 commit e6549a9449332ed382df00730f1012271f8de89b4 (HEAD -> master) AUthor nathanbartoe@outlook.com Date: TUE Jan 21 20:00:06 2025 -0500
+On branch main your branch is up to date with origin/main
+Changes were not reflected
+failed to push some refs to the github
+Changes were made 
+.gitignore README.md
